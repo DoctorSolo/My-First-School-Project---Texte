@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691535727 source:c:\users\migue\documents\documentos\area 51\teste\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
